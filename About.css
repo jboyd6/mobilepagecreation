@@ -3,31 +3,22 @@ body {
     
 }
 
-h3{
+p1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
-    text-transform: uppercase;
+
 }
 
-h2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 50px;
-    text-transform: uppercase;
-    
+/* Banner Styling */
+
+.banner {
+     width: 100%;
+     height: 50vh;
+
 }
 
-h4 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    
-}
 
-.glyphicon {
-
-    font-size: 40px;
-    color: #3B5998;
-}
-
+/* footer styling */
 footer {
 
     width: auto;
@@ -41,7 +32,7 @@ footer {
 
  h3 {
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 30px;
+font-size: 20px;
 text-align: center;
 
  }
@@ -49,7 +40,7 @@ text-align: center;
 p2 {
 
    font-family: Georgia, 'Times New Roman', Times, serif;
-   font-size: 20px;
+   font-size: 14px;
    text-align: center;
    padding-left: 25px;
    padding-right: 25px;
